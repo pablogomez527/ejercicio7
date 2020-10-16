@@ -12,6 +12,6 @@ int main()
       suma=suma+i;
     }
     cout<<"la sumatoria desde 0 hasta "<<numero<<" es "<< suma<<endl;
-    cout<<"la sumatoria desde 0 hasta "<<numero<<" es "<< suma<<endl;
+    //fskndfgkfjflokfsddlnjfdjg
     return 0;
 }
