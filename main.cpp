@@ -10,7 +10,7 @@ int main()
     cin>> numero;
     for (int i=0;i<=numero ;i++ ) {
       suma=suma+i;
-    }
+    }   //fskndfgkfjflokfsddlnjfdjg
     cout<<"la sumatoria desde 0 hasta "<<numero<<" es "<< suma<<endl;
     //fskndfgkfjflokfsddlnjfdjg
     return 0;
